@@ -12,7 +12,7 @@ public class PrintVariableValue {
     
     public static void main(String[] args) {
         
-        int myFirstNumber = 5;
+        int myFirstNumber = 1000;
         System.out.println("Value of the variable is: " + myFirstNumber);
     }
 }
