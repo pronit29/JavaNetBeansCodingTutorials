@@ -27,7 +27,7 @@ public class AllFactorsOfNumber {
     
     public static void main(String[] args) {
         
-        printFactors(-1);
+        printFactors(16);
     }
     
 }
