@@ -10,7 +10,7 @@ public class FirstExample {
     public static void main(String[] args) {
 
         Integer boxedInt = Integer.valueOf(15);
-        Integer deprecatedBoxedInt = new Integer(15);
+//        Integer deprecatedBoxedInt = new Integer(15);
         int unboxedInt = boxedInt.intValue();
 
             }
